@@ -1,0 +1,8 @@
+paths: # Files to analyse.
+  - 'app/'
+  - 'bin/'
+  - 'config/'
+  - 'db/'
+  - 'test/'
+  - 'lib/'
+  - 'script/'
