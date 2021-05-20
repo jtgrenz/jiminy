@@ -1,2 +1,0 @@
-Base branch (master) score: 99.86 
-Feature branch (rc-test) score: 99.86 
